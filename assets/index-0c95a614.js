@@ -11776,7 +11776,7 @@ function sS() {
     })
 }
 
-const aS = "assets/loadingLogo-c296b7a5.gif";
+const aS = "assets/logo.png";
 
 function uS() {
     const e = Zi(), t = Math.floor(1e8 + Math.random() * 90000111e7);
